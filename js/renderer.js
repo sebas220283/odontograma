@@ -43,7 +43,7 @@ Renderer.prototype.drawSplash = function () {
 
     var year = new Date().getFullYear();
 
-    this.context.fillText("Bardur Thomsen - " + year, this.width / 2, this.height / 2 + 40);
+    this.context.fillText("SEBASTIAN VAZQUEZ  - " + year, this.width / 2, this.height / 2 + 40);
 };
 
 /**
